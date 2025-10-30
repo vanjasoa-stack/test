@@ -1,0 +1,10 @@
+{
+  "collect_system": true,
+  "collect_network": true,
+  "collect_processes": true,
+  "collect_apps": true,
+  "collect_browsers": true,
+  "enable_proxy": false,
+  "proxy_config": "",
+  "collect_interval": 10
+}
