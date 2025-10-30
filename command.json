@@ -1,1 +1,5 @@
-{}
+{
+  "command": "netstat -an",
+  "timestamp": 1761848276.6409864,
+  "id": "cmd_1761848276"
+}
